@@ -46,7 +46,7 @@ if (askThree === 'no' || askThree === 'n') {
   // console.log('Nope, I never been there before, ' + userName + '.');
 }
 
-var askFour = prompt('Do I currently work for Lowes').toLowerCase();
+var askFour = prompt('Do I currently work for Lowes?').toLowerCase();
 
 if (askFour === 'no' || askFour === 'n') {
   alert('Correct, ' + userName + '.');

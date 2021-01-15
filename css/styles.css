@@ -1,9 +1,11 @@
 body {
-    background-color:aquamarine;
-    width: 960px;   
+    background-color:rgb(221, 235, 182);
+    width: 960px;  
+    margin-left: 25px; 
+    margin-top: 25px;
 }
-
 img {
     width:100px;
     height:auto;
+
 }
