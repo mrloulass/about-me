@@ -75,5 +75,5 @@ alert('Thank you, ' + userName + ' for visting my website.');
 // if(questionOne === 'yes'|| questionOne ==='y'){
 // console.log('you are correct')
 // alert('you are correct');
-// you can do a else if or eles statements 
+// you can do a else if or eles statements
 // }
