@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # about-me
 
 # LAB - 02
@@ -17,7 +16,4 @@ I build a website and add prompts and alerts with JavaScript. I need to work on 
 * I realize why and how to use `.toUpperCase()` and `.toLowerCase()` it convert the out put to upper or lower case.
 * It took me a few minutes to understand `if` statments, but the examples in class on VSC help me understand. 
 * The more on hand coding I do, makes me feel better about coding and understanding it.
- 
-=======
-# about-me
->>>>>>> 7cd779b57f82b50bfb1937a9488a56ac74580fa5
+
