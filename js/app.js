@@ -6,7 +6,7 @@
 
 // get user name and offer greeting
 
-var userName = prompt('Hello, what \'s your name?');
+var userName = prompt('Hello, what\'s your name?');
 alert('Hello, ' + userName + '.');
 // console.log('Hello, ' + userName + '.');
 
@@ -69,11 +69,17 @@ if (askFive === 'yes' || askFive === 'y') {
 alert('Thank you, ' + userName + ' for visting my website.');
 // console.log('Thank you, ' + userName + ' for visting my website.');
 
-// var questionOne = prompt('Do I live in Seattle').toLowerCase();
+var askSix = prompt(userName + ', how many trips am I planning next year?');
+
+// var trips = ['corect', 'too high', 'too low', 8];
+
+// var nextYear = trips.length;
+// for (i = 0; i < nextYear; i++)
 
 
-// if(questionOne === 'yes'|| questionOne ==='y'){
-// console.log('you are correct')
-// alert('you are correct');
-// you can do a else if or eles statements
-// }
+
+
+// for (var i = 0; i < 4; i++)
+
+
+

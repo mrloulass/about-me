@@ -1,5 +1,24 @@
 # about-me
 
+# LAB - 03
+
+## About Me
+
+I add an ordered list called "Top Ten Cities for Great Food". I changed experience and education to a unordered list in HTML.
+I update my CSS code.
+
+### Author: Louis Lassegue
+
+### Links and Resources
+<!-- * [submission PR](http://xyz.com) -->
+<!-- * Any Links you used as reference -->
+
+### Reflections and Comments
+
+
+
+# about-me
+
 # LAB - 02
 
 ## About Me
