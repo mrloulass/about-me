@@ -14,6 +14,7 @@ I update my CSS code.
 <!-- * Any Links you used as reference -->
 
 ### Reflections and Comments
+Today I learn how to use margin, border and padding in CSS.  I learn what an array is and how to use it . I'm still confuse about loops and how to use loops with arrays. 
 
 
 

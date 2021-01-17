@@ -71,15 +71,19 @@ alert('Thank you, ' + userName + ' for visting my website.');
 
 var askSix = prompt(userName + ', how many trips am I planning next year?');
 
-// var trips = ['corect', 'too high', 'too low', 8];
+if (askSix > 8) {
+  alert('Too High');
+} else if (askSix < 8) {
+  alert('Too Low');
+} else {
+  (askSix === 8);
+  askSix = alert('You are correct');
+}
 
-// var nextYear = trips.length;
-// for (i = 0; i < nextYear; i++)
+var favoriteColor= ['red','blue', 'green', 'yellow','orange','azue','purple'];
 
+var askSeven = prompt('What is my favorite color').toLowerCase();
 
-
-
-// for (var i = 0; i < 4; i++)
 
 
 
