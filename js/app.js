@@ -69,21 +69,31 @@ if (askFive === 'yes' || askFive === 'y') {
 alert('Thank you, ' + userName + ' for visting my website.');
 // console.log('Thank you, ' + userName + ' for visting my website.');
 
-var askSix = prompt(userName + ', how many trips am I planning next year?');
 
-if (askSix > 8) {
-  alert('Too High');
-} else if (askSix < 8) {
-  alert('Too Low');
-} else {
-  (askSix === 8);
-  askSix = alert('You are correct');
-}
+// var askSix = +prompt(userName + ', how many trips am I planning next year?');
 
-var favoriteColor= ['red','blue', 'green', 'yellow','orange','azue','purple'];
+// // I'm taking 8 trips next year
 
-var askSeven = prompt('What is my favorite color').toLowerCase();
+// var tryFour = 4;
 
+// var trips = 8;
 
+// for (var i = 0; i < tryFour; i++) {
+//   if (askSix === trips) {
+//     alert('You are correct');
+//     score++;
+//   } else if (askSix > trips) {
+//     alert('Too High');
+//   } else if (askSix < trips) {
+//     alert('Too Low');
+//   }
 
+// var favoriteColor = ['red','blue', 'green', 'yellow','orange','pink','purple'];
 
+// var guessSix = 6;
+
+// var askSeven = prompt('What is my favorite color').toLowerCase();
+
+// while(){
+
+// }
