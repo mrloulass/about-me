@@ -109,7 +109,7 @@ function askSix(userName) {
 askSix(userName);
 
 alert(`Thank you, ${userName} for visting my website. You score ${correctCount} correctly.`);
-// console.log('Thank you, ' + userName + ' for visting my website.');
+// console.log('Thank you, ' + userName + ' for visting my website. You score'+ correctCount + correctly.');
 
 
 // var favoriteColor = ['red','blue', 'green', 'yellow','orange','pink','purple'];
